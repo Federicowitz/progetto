@@ -8,7 +8,8 @@ app.use(express.json());
 
 let notes = [
   { id: 1, text: "Prima notassssss" },
-  { id: 2, text: "Seconda nota e bastaaaaaasecondo" }
+  { id: 2, text: "Seconda nota e bastaaaaaasecondo" },
+  { id: 3, text: "terza" }
 ];
 
 
